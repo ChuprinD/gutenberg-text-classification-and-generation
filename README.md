@@ -36,7 +36,7 @@ python -m venv .venv
 
 Activate (Windows):
 
-.venv`\Scripts`{=tex}`\activate`{=tex}
+.venv\Scripts\activate
 
 Install dependencies:
 
@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 Execute notebooks in order:
 
-1.  01_data_preparation.ipynb\
-2.  02_classical_models.ipynb\
-3.  03_transformer_classification.ipynb\
+1.  01_data_preparation.ipynb
+2.  02_classical_models.ipynb
+3.  03_transformer_classification.ipynb
 4.  04_text_generation.ipynb
 
